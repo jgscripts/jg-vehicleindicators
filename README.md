@@ -18,6 +18,8 @@ Uses modern state bags to sync indicators to all clients, with no performance im
 
 `Up arrow key` = Hazard lights
 
+You can change Key binds in game by hitting `Escape -> Settings -> Key Bindings -> FiveM -> Look for (jg-vehicleindicators) key binds`
+
 ## Credits
 
 Made by JG Scripts https://jgscripts.com
